@@ -2,4 +2,5 @@
 Project1
 
 This is the README for project1
-This file is updated now again with further info and added to staging area
+This file is updated now again with further info and added to staging area this file now has some more text in it after one commit.   Then change this file and amend it in the previous commit by using git commit -a --amend.
+
